@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">uChat</string>
+
+    <string name="user_name">username</string>
+    <string name="log_password">password</string>
+    <string name="logging">logging</string>
+    <string name="register">not a user? register</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="middle_name">middle name</string>
+    <string name="reg_no">reg no.</string>
+    <string name="level">level</string>
+    <string name="phone_no">phone</string>
+    <string name="reg_password">password</string>
+    <string name="student">student</string>
+    <string name="lecturer">lecturer</string>
+    <string name="submit">submit</string>
+    <string name="reg_course">register course</string>
+    <string name="view_courses">view course</string>
+    <string name="create_course">create course</string>
+    <string name="course_code">course code</string>
+    <string name="course_title">course title</string>
+</resources>
